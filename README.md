@@ -1,6 +1,7 @@
 # birthday_list
 
-A new Flutter project.
+This is a flutter implementation of React projects by John Smilga, specifically, the first project.
+Click [here](https://www.youtube.com/watch?v=a_7Z7C_JCyo) for the original video: 
 
 ## Getting Started
 
